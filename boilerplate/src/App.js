@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+
+    making a boilerplate
         </a>
       </header>
     </div>
